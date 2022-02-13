@@ -1,0 +1,16 @@
+.timer-wrapper {
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.timer {
+    text-align: center;
+    font-size: 35px;
+}
+
+.controller {
+    text-align: center;
+    padding-top: 15px;
+}
